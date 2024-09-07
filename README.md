@@ -1,0 +1,1 @@
+# GMO Coin Trading Script
